@@ -2,6 +2,7 @@
 //                                                    task1
 let family = {
 // family number 1
+  son1: "John <br/>",
   John: {
    son1: "Chris <br/>",
    Chris: {
@@ -59,11 +60,13 @@ let family = {
    },
  },
  // family number 2
+ son2: "Jack <br/>",
   Jack: {
    son1: "Kevin <br/>",
    son2: "DerekWood <br/>",
  },
  // family number 3
+ son3: "David <br/>",
   David:{
    son1: "Kegan <br/>",
    Kegan: {
